@@ -1,0 +1,1 @@
+This folder is empty because i used friend photos to train,  So due to privacy concerns am not providing dataset! You can take any photos and train the modal!
